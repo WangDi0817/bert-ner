@@ -1,0 +1,2426 @@
+incredibly absurdres	质量
+absurdres	质量
+highres	质量
+best quality	质量
+masterpiece	质量
+wallpaper	质量
+8kresolution	质量
+high film grain effect	质量
+highly detailed	质量
+god rays	渲染
+glitch	渲染
+backlighting	渲染
+sparkle	渲染
+depth of field	渲染
+halo	渲染
+volumetric lighting	渲染
+caustics	渲染
+motion blur	渲染
+lens flare	渲染
+cinematic lighting	渲染
+ray tracing	渲染
+blurry	渲染
+3d render	渲染
+C4D render	渲染
+Unity render	渲染
+saturated colors	渲染
+desaturated	渲染
+illustration	类型
+artbook	类型
+comic	类型
+photo	类型
+sketch	类型
+silhouette	类型
+oil painting	类型
+hand drawn	类型
+chibi	类型
+monsterification	类型
+figure	类型
+tachi-e	类型
+watercolor	类型
+marker	类型
+graphite	类型
+pixel art	类型
+flat color	类型
+animalization	类型
+lolita fashion	类型
+game cg	类型
+gothic	类型
+cyberpunk	类型
+traditional art	类型
+colored pencil	类型
+monochrome	类型
+8 Bit game	类型
+stereoscopic	类型
+Lines	类型
+ink wash painting	类型
+science fiction	类型
+charcoal art	类型
+crayon drawing	类型
+faux traditional media	类型
+graphite painting	类型
+ballpoint penart drawing	类型
+mosaic drawing	类型
+collage	类型
+umamusume	IP
+kemono friends	IP
+princess connect	IP
+Dragon Ball	IP
+Naruto	IP
+One Piece	IP
+pokemon	IP
+mario	IP
+marvel	IP
+YU-GI-OH	IP
+genshin impact	IP
+toy story	IP
+the Simpsons	IP
+dragon quest	IP
+Hatsune Miku	IP
+sailor moon	IP
+neon genesis evangelion	IP
+hokuto no ken	IP
+disney movie	IP
+style of Pixar	IP
+painted in the style of Ashcan School	流派
+realistic	流派
+painted in the style of Art Nouveau	流派
+painted in the style of Art photography	流派
+painted in the style of Assemblage	流派
+lineart	流派
+painted in the style of Geometric Art	流派
+surreal	流派
+painted in the style of Geometric abstract art	流派
+painted in the style of Arts and Crafts movement	流派
+retro artstyle	流派
+expressionism	流派
+fauvism	流派
+romanticism	流派
+classicism	流派
+futurism	流派
+abstract art	流派
+dadaism	流派
+ASCII art	流派
+baroque style	流派
+rococo	流派
+Rembrandt	艺术家
+Makoto Shinkai	艺术家
+Shigeru Miyamoto	艺术家
+Hayao Miyazaki	艺术家
+Shingo Araki	艺术家
+Shintaro Kago	艺术家
+alphonse mucha	艺术家
+Pablo Picasso	艺术家
+Takashi Murakami	艺术家
+Akira Toriyama	艺术家
+Yayoi Kusama	艺术家
+Nara Yoshitomo	艺术家
+Inoue Yuhiko	艺术家
+Masami Shida	艺术家
+Harunobu Suzuki	艺术家
+Osamu Tezuka	艺术家
+Yumiko Takahashi	艺术家
+Michelangelo	艺术家
+Claude Monet	艺术家
+Raphael Sancy	艺术家
+Leonardo da Vinci	艺术家
+Vincent Willem van Gogh	艺术家
+perspective	镜头
+from behind	镜头
+profile	镜头
+full body	镜头
+upper body	镜头
+facing away	镜头
+upside-down	镜头
+close-up	镜头
+fisheye	镜头
+wide shot	镜头
+from above	镜头
+from below	镜头
+pov	镜头
+pov hands	镜头
+pov crotch	镜头
+foot focus	镜头
+dynamic angle	镜头
+cinematic angle	镜头
+blurry foreground	镜头
+against glass	镜头
+straight-on	镜头
+foreshortening	镜头
+looking at viewer	镜头
+solo focus	镜头
+from side	镜头
+panorama	镜头
+soft focus	镜头
+deep focus	镜头
+shallow focus	镜头
+ultra-wide angle	镜头
+vantage point	镜头
+drone	镜头
+gopro	镜头
+colorized	色彩
+chromatic aberration	色彩
+solid background	色彩
+white background	色彩
+green theme	色彩
+pink theme	色彩
+red theme	色彩
+yellow theme	色彩
+greyscale	色彩
+gradient background	色彩
+solo	数量
+twins	数量
+no humans	数量
+1boy	数量
+2boys	数量
+3boys	数量
+multiple boys	数量
+1girl	数量
+2girls	数量
+3girls	数量
+multiple girls	数量
+triplets	数量
+male	身份
+female	身份
+child	身份
+loli	身份
+sisters	身份
+goddess	身份
+butler	身份
+maid	身份
+dancer	身份
+doctor	身份
+nurse	身份
+policeman	身份
+policewoman	身份
+princess	身份
+husband and wife	身份
+mother and daughter	身份
+mother and son	身份
+monster	身份
+angel	身份
+elf	身份
+nun	身份
+ninja	身份
+miko	身份
+cat girl	身份
+horse girl	身份
+cow girl	身份
+demon girl	身份
+dog girl	身份
+dragon girl	身份
+fox girl	身份
+ghost	身份
+wolf girl	身份
+orc	身份
+muscular man	身份
+cheerleaders	身份
+goblin	身份
+teenage	身份
+bunny girl	身份
+mermaid	身份
+spider girl	身份
+siblings	身份
+magical girl	身份
+waitress	身份
+brother	身份
+student	身份
+doll	身份
+teacher	身份
+chef	身份
+pilot	身份
+boxer	身份
+fireman	身份
+kirito	动漫
+shana	动漫
+devil may cry	动漫
+Uchiba Sasuke	动漫
+MonkeyD.Luffy	动漫
+Chun_Li	动漫
+Conan	动漫
+sonic	动漫
+izumi sagiri	动漫
+spider-man	动漫
+gojou satoru	动漫
+batman	动漫
+Pikachu	动漫
+godzilla	动漫
+Hariro Charcoal	动漫
+Lich King	动漫
+Ken Kaneki	动漫
+Asuka	动漫
+sun wukong	动漫
+teddy bear	动漫
+mega man x	动漫
+doraemon	动漫
+Kakarot	动漫
+harry potter	动漫
+Kurosaki ichigo	动漫
+Sakuragi Hanamichi	动漫
+Kuchiki Rukia	动漫
+saint seiya	动漫
+Nohara Shinnosuke	动漫
+Ciel Phantomhive	动漫
+Edward Elric	动漫
+multicolored eyes	五官
+empty eyes	五官
+light green eyes	五官
+slit pupils	五官
+star-shaped pupils	五官
+one eye closed	五官
+glowing eyes	五官
+half-closed eye	五官
+tsurime	五官
+closed eyes	五官
+open eyes	五官
+tears	五官
+eye makeup	五官
+black sclera	五官
+jitome	五官
+animal ears	五官
+fake animal ears	五官
+fox ears	五官
+ear piercing	五官
+dog ears	五官
+cat ears	五官
+rabbit ears	五官
+pointy ears	五官
+robot ears	五官
+extra ears	五官
+nose	五官
+animal nose	五官
+scar on nose	五官
+bandaid on nose	五官
+scar across eye	五官
+scar on cheek	五官
+scar on face	五官
+eyebrows	五官
+thick eyebrows	五官
+eyeshadow	五官
+lips	五官
+heterochromia	五官
+gradient eyes	五官
+constricted pupils	五官
+flower-shaped pupils	五官
+heart-shaped pupils	五官
+bright pupils	五官
+teeth	五官
+upper teeth	五官
+lower teeth	五官
+fangs	五官
+fang	五官
+sharp teeth	五官
+beard	五官
+tongue	五官
+ringed eyes	五官
+prefect face	五官
+exquisite facial features	五官
+light smile	表情
+frown	表情
+embarrassed	表情
+drunk	表情
+annoyed	表情
+glaring	表情
+streaming tears	表情
+thinking	表情
+xd	表情
+evil smile	表情
+angry	表情
+shy	表情
+blush	表情
+sleepy	表情
+scowl	表情
+jealous	表情
+gloom expression	表情
+smirk	表情
+tsundere	表情
+happy	表情
+yandere	表情
+shaded face	表情
+expressionless	表情
+drooling	表情
+wince	表情
+turn pale	表情
+clenched teeth	表情
+grin	表情
+parted lips	表情
+:d	表情
+:p	表情
+;d	表情
+nervous smile	表情
+seductive smile	表情
+heart in eye	表情
+glint	表情
+v-shaped eyebrows	表情
+crying	表情
+licking	表情
+blush	表情
+smile	表情
+sigh	表情
+short eyebrows	表情
+serious	表情
+screaming	表情
+scared	表情
+sad	表情
+raised eyebrow	表情
+pout	表情
+open mouth	表情
+nervous	表情
+:t	表情
+:3	表情
+naughty face	表情
+confused	表情
+smug	表情
+jitome	表情
+sleepy	表情
+seductive smile	表情
+grin	表情
+evil smile	表情
+pout	表情
+breasts	胸部
+smail breasts	胸部
+large breasts	胸部
+medium breasts	胸部
+heart	胸部
+huge breasts	胸部
+bird wings	四肢
+dragon wings	四肢
+ice wings	四肢
+angel wings	四肢
+fairy wings	四肢
+mini wings	四肢
+demon wings	四肢
+asymmetrical wings	四肢
+bare legs	四肢
+toes	四肢
+cropped legs	四肢
+thick thighs	四肢
+thighs	四肢
+fingernails	四肢
+demon horns	特征
+mole under mouth	特征
+black skin	特征
+white skin	特征
+colored skin	特征
+very dark skin	特征
+dark skin	特征
+two_tone skin	特征
+multicolored skin	特征
+pale skin	特征
+tattoo	特征
+arm tattoo	特征
+shoulder tattoo	特征
+facial tattoo	特征
+chest tattoo	特征
+leg tattoo	特征
+stomach tattoo	特征
+wide hips	特征
+skinny	特征
+plump	特征
+collarbone	特征
+long fingernails	特征
+multicolored nails	特征
+sharp fingernails	特征
+curvy	特征
+scar on arm	特征
+lipstick	特征
+chestnut mouth	特征
+devil eyes	特征
+button eyes	特征
+mechanical legs	特征
+cybernetic prosthesis	特征
+doll joints	特征
+bangs	头部
+scrunchie	头部
+hair bun	头部
+braid	头部
+curly hair	头部
+hair spread out	头部
+short hair	头部
+long hair	头部
+wavy hair	头部
+wet hair	头部
+hair bun	头部
+ringlets	头部
+bald	头部
+ahoge	头部
+twintails	头部
+side ponytail	头部
+short ponytail	头部
+high ponytail	头部
+ponytail	头部
+side braid	头部
+twin braids	头部
+pigtail braided hair	头部
+double bun	头部
+braided bun	头部
+blunt bangs	头部
+crossed bangs	头部
+parted bangs	头部
+asymmetrical bangs	头部
+multicolored hair	头部
+gradient hair	头部
+fluffy hairstyle	头部
+spiked hair	头部
+floating hair	头部
+messy hair	头部
+absurdly long hair	头部
+hair down	头部
+hair up	头部
+very short hair	头部
+hair over breasts	头部
+hair over eyes	头部
+very long hair	头部
+hair slicked back	头部
+hair between eyes	头部
+oni horns	头部
+horns	头部
+multiple horns	头部
+horns	头部
+dragon horns	头部
+antlers	头部
+sheep horns	头部
+goat horns	头部
+covering eyes	头部
+medium hair	头部
+hug	基础
+standing	基础
+looking up	基础
+seiza	基础
+sitting	基础
+squatting	基础
+lying	基础
+kneeling	基础
+holding hands	基础
+peeping	基础
+wipe sweat	基础
+sleeping	基础
+arms up	基础
+salute	基础
+waving	基础
+holding	基础
+spread legs	基础
+indian style	基础
+looking at phone	基础
+walking	基础
+running	基础
+jump	基础
+fly	基础
+bent over	基础
+smelling	基础
+grabbing	基础
+selfie	基础
+hair scrunchie	基础
+hair pull	基础
+middle finger	基础
+princess carry	复杂
+sideways glance	复杂
+upskirt	复杂
+back-to-back	复杂
+face-to-face	复杂
+looking back	复杂
+yokozuwari	复杂
+stretch	复杂
+shushing	复杂
+staring	复杂
+leg lift	复杂
+legs up	复杂
+hand on hip	复杂
+hands on hips	复杂
+fetal position	复杂
+crossed legs	复杂
+armpits	复杂
+arm support	复杂
+facing viewer	复杂
+looking away	复杂
+looking to the side	复杂
+fighting stance	复杂
+leaning forward	复杂
+all fours	复杂
+bent over	复杂
+finger gun	复杂
+middle finger	复杂
+thumbs up	复杂
+eye contact	复杂
+holding hair	复杂
+adjusting hair	复杂
+arms behind back	复杂
+hand to mouth	复杂
+looking at another	复杂
+stradding	复杂
+pray	复杂
+doing a meditation	复杂
+gill support	复杂
+skirt lift	复杂
+horse riding	复杂
+holding umbrella	复杂
+holding flower	复杂
+standing spilt	复杂
+holding heart	复杂
+object hug	复杂
+holding book	复杂
+holding knife	复杂
+holding gun	复杂
+holding cup	复杂
+holding food	复杂
+holding wand	复杂
+holding microphone	复杂
+waving arms	复杂
+outstretched arm	复杂
+arm hug	复杂
+crossed arms	复杂
+spread arms	复杂
+kissing cheek	复杂
+kissing forehead	复杂
+tiptoe kiss	复杂
+fruit on head	复杂
+grabbing another's hair	复杂
+adjusting thighhigh	复杂
+hug from behind	复杂
+jewelry	饰品
+mask	饰品
+blindfold	饰品
+eyepatch	饰品
+gloves	饰品
+elbow gloves	饰品
+fingerless gloves	饰品
+paw gloves	饰品
+bridal gauntlets	饰品
+armlet	饰品
+armband	饰品
+necklace	饰品
+cross necklace	饰品
+cross necklace	饰品
+metal collar	饰品
+ribbon choker	饰品
+hair flower	饰品
+hair rings	饰品
+Headbands	饰品
+hairclip	饰品
+Hairpins	饰品
+hair ornament	饰品
+maid headdress	饰品
+feather hair ornament	饰品
+bow	饰品
+hair bow	饰品
+hair ribbon	饰品
+bow hairband	饰品
+lolita hairband	饰品
+hood	饰品
+nurse cap	饰品
+beret	饰品
+wizard hat	饰品
+witch hat	饰品
+sailor hat	饰品
+santa hat	饰品
+mini top hat	饰品
+ribbon	饰品
+neck ribbon	饰品
+belt	饰品
+necktie	饰品
+bowtie	饰品
+sailor collar	饰品
+earrings	饰品
+wedding veil	饰品
+mask	饰品
+breastplate	饰品
+semi-rimless eyewear	饰品
+goggles on head	饰品
+shawl	饰品
+cloak	饰品
+head scarf	饰品
+scarf	饰品
+tassel	饰品
+bell	饰品
+legring	饰品
+rabbit tail	饰品
+ear covers	饰品
+arm strap	饰品
+armlet	饰品
+bangle	饰品
+bracelet	饰品
+pearl bracelet	饰品
+wristband	饰品
+spaghetti	饰品
+drop earrings	饰品
+stud earrings	饰品
+hoop earrings	饰品
+veil	饰品
+bridal veil	饰品
+prajna in mask	饰品
+crown	饰品
+mini crown	饰品
+pauldrons	饰品
+gauntlets	饰品
+goggles	饰品
+sunglasses	饰品
+aviator sunglasses	饰品
+ring	饰品
+puppet rings	饰品
+poncho	饰品
+beach towel	饰品
+pendant	饰品
+brooch	饰品
+corsage	饰品
+skirt lift	饰品
+metal thorns	饰品
+ribbon trim	饰品
+thigh strap	饰品
+sapphire brooch	饰品
+sunburst	饰品
+leg garter	饰品
+swimsuit	套装
+bikini	套装
+one-piece swimsuit	套装
+slingshot swimsuit	套装
+long dress	套装
+apron	套装
+suspender skirt	套装
+plaid skirt	套装
+dress	套装
+pleated dress	套装
+off-shoulder dress	套装
+backless dress	套装
+high-waist skirt	套装
+layered dress	套装
+school uniform	套装
+suit	套装
+uniform	套装
+sportswear	套装
+kimono	套装
+gym shirt	套装
+serafuku	套装
+formal	套装
+casual	套装
+pant suit	套装
+japanese clothes	套装
+strapless dress	套装
+gym uniform	套装
+Gala dress	套装
+santa costume	套装
+jumpsuit	套装
+lingerie	套装
+chinese clothes	套装
+yukata	套装
+pajamas	套装
+wedding dress	套装
+robe	套装
+military uniform	套装
+armor	套装
+police uniform	套装
+china dress	套装
+nightgown	套装
+leotard	套装
+highleg leotard	套装
+Victoria black maid dress	套装
+coat	上装
+long coat	上装
+suit jacket	上装
+hooded coat	上装
+tank top	上装
+sweater vest	上装
+camisole	上装
+shirt	上装
+turtleneck	上装
+hoodie	上装
+cropped shirt	上装
+cardigan	上装
+taut shirt	上装
+collared shirt	上装
+blouse	上装
+sleeveless shirt	上装
+off-shoulder shirt	上装
+striped shirt	上装
+dress shirt	上装
+unbuttoned shirt	上装
+sweater	上装
+turtleneck sweater	上装
+open-chest sweater	上装
+off-shoulder sweater	上装
+sweater dress	上装
+vest	上装
+trench coat	上装
+open coat	上装
+fur-trimmed coat	上装
+winter coat	上装
+coat on shoulders	上装
+bra	上装
+tube top	上装
+sports bra	上装
+blazer	上装
+hooded jacket	上装
+letterman jacket	上装
+military jacket	上装
+taut clothes	上装
+strapless leotard	上装
+halter top	上装
+midriff shirts	上装
+tube top blouse	上装
+crop top	上装
+t-shirt	上装
+long sleeves	上装
+wide sleeves	上装
+sleeveless	上装
+suspenders	上装
+gaiters	上装
+suspenders	上装
+corset	上装
+labcoat	上装
+short over long sleeves	上装
+criss-cross halter	上装
+sleeves_past_fingers	上装
+tailcoat	上装
+summer dress	上装
+fur trimmed colla	上装
+hooded cloak	上装
+trench coat	上装
+lab coat	上装
+down jackets	上装
+body armor	上装
+flak jacket	上装
+overcoat	上装
+duffel coat	上装
+pants	下装
+shorts	下装
+short shorts	下装
+lace shorts	下装
+denim shorts	下装
+cutoffs	下装
+skirt	下装
+hakama skirt	下装
+waist apron	下装
+pleated skirt	下装
+miniskirt	下装
+microskirt	下装
+panties	下装
+overalls	下装
+yoga pants	下装
+leggings	下装
+jeans	下装
+high-waist pants	下装
+bloomers	下装
+capri pants	下装
+pencil skirt	下装
+leather skirt	下装
+skirt under kimono	下装
+bare feet	鞋/袜
+sandals	鞋/袜
+slippers	鞋/袜
+geta	鞋/袜
+boots	鞋/袜
+ankle boots	鞋/袜
+sneakers	鞋/袜
+high heels	鞋/袜
+knee boots	鞋/袜
+high heel boots	鞋/袜
+thigh boots	鞋/袜
+socks	鞋/袜
+legwear	鞋/袜
+stockings	鞋/袜
+pantyhose	鞋/袜
+garter straps	鞋/袜
+fishnets	鞋/袜
+ankle socks	鞋/袜
+fishnet legwear	鞋/袜
+white pantyhose	鞋/袜
+thighhighs	鞋/袜
+loose socks	鞋/袜
+kneehighs	鞋/袜
+fishnet pantyhose	鞋/袜
+stirrup legwear	鞋/袜
+toeless legwear	鞋/袜
+bobby socks	鞋/袜
+garter belt	鞋/袜
+leggings	鞋/袜
+Christmas stocking	鞋/袜
+leg warmers	鞋/袜
+pantyhose	鞋/袜
+losse socks	鞋/袜
+sock dangle	鞋/袜
+lace legwear	鞋/袜
+ribbed legwear	鞋/袜
+frilled socks	鞋/袜
+ribbon-trimmed legwear	鞋/袜
+studded garter belt	鞋/袜
+frilled thighhighs	鞋/袜
+torn pantyhose	鞋/袜
+frilled pantyhose	鞋/袜
+chair	家具
+teacup	家具
+piano	家具
+bed	家具
+table	家具
+sofa	家具
+dining table	家具
+closet	家具
+cabinet	家具
+desk	家具
+wardrobe	家具
+shoe rack	家具
+air conditioner	家具
+lighting fixture	家具
+cushion	家具
+mirror	家具
+shelf	家具
+television	家具
+carpet	家具
+wall clock	家具
+coffee table	家具
+TV cabinet	家具
+bedside table	家具
+airplane	载具
+aircraft	载具
+motorcycle	载具
+boat	载具
+car	载具
+truck	载具
+tank	载具
+train	载具
+subway	载具
+ship	载具
+yacht	载具
+submarine	载具
+freight truck	载具
+coach	载具
+bicycle	载具
+bus	载具
+taxi	载具
+tractor	载具
+helicopter	载具
+aircraft carrier	载具
+electric scooter	载具
+gun	道具
+umbrella	道具
+sword	道具
+whip	道具
+bag	道具
+school bag	道具
+backpack	道具
+belt pouch	道具
+handbag	道具
+shoulder bag	道具
+briefcase	道具
+cane	道具
+headphones	道具
+handgun	道具
+wand	道具
+ofuda	道具
+yin yang	道具
+cigarette	道具
+guitar	道具
+handcuffs	道具
+buttons	道具
+riding crop	道具
+scythe	道具
+camera	道具
+chopsticks	道具
+microphone	道具
+cosmetics	道具
+bandaid	道具
+christmas tree	道具
+jack-o'-lantern	道具
+stuffed cat	道具
+key	道具
+gem	道具
+gold coin	道具
+weapon	道具
+shield	道具
+map	道具
+staff	道具
+bow and arrow	道具
+bomb	道具
+spellbook	道具
+amulet	道具
+fishing rod	道具
+telescope	道具
+portal	道具
+magic potion	道具
+tea	食物
+soup	食物
+egg	食物
+cake	食物
+pizza	食物
+bread	食物
+toast	食物
+noodles	食物
+ramen	食物
+cup ramen	食物
+rice	食物
+pie	食物
+sushi	食物
+sausage	食物
+bento	食物
+curry	食物
+coffee	食物
+beer	食物
+potato chips	食物
+chewing gum	食物
+chocolate	食物
+doughnut	食物
+ice cream	食物
+curry rice	食物
+french fries	食物
+burger	食物
+fried egg	食物
+sandwich	食物
+sake	食物
+wine	食物
+tropical drink	食物
+birthday cake	食物
+chocolate bar	食物
+pasta	食物
+coca-cola	食物
+porridge	食物
+fried chicken	食物
+steamed bun	食物
+grilled meat	食物
+fried rice	食物
+dumplings	食物
+barbecue	食物
+tofu	食物
+hotdog	食物
+grilled fish	食物
+claypot rice	食物
+chinese pancake	食物
+sweet and sour pork	食物
+mapo tofu	食物
+flower	植物
+bouquet	植物
+petals	植物
+wreath	植物
+wisteria	植物
+lotus	植物
+lily pad	植物
+rose	植物
+cherry blossoms	植物
+sunflower	植物
+tulip	植物
+blueberry	植物
+strawberry	植物
+grapes	植物
+tomato	植物
+watermelon	植物
+mandarin orange	植物
+banana	植物
+apple	植物
+cucumber	植物
+mushroom	植物
+spring onion	植物
+pumpkin	植物
+lemon slice	植物
+carrot	植物
+chrysanthemum	植物
+plum blossom	植物
+bamboo	植物
+pine tree	植物
+lotus	植物
+oak tree	植物
+peony	植物
+carnation	植物
+rhododendron	植物
+lavender	植物
+jasmine	植物
+coconut tree	植物
+chinese wisteria	植物
+violet	植物
+banana tree	植物
+pomegranate tree	植物
+lily	植物
+cauliflower	植物
+corn	植物
+cherry	植物
+horse	动物
+bear	动物
+chicken	动物
+pig	动物
+turtle	动物
+deer	动物
+cat	动物
+dog	动物
+penguin	动物
+fox	动物
+crab	动物
+tiger	动物
+crow	动物
+duck	动物
+seagull	动物
+panda	动物
+goldfish	动物
+shark	动物
+hamster	动物
+jellyfish	动物
+tanuki	动物
+lion	动物
+mouse	动物
+monkey	动物
+dove	动物
+dolphin	动物
+spider	动物
+dinosaur	动物
+ladybug	动物
+snail	动物
+butterfly	动物
+rabbit	动物
+fireflies	动物
+owl	动物
+cow	动物
+dragon	动物
+snake	动物
+sheep	动物
+wolf	动物
+gorilla	动物
+crocdile	动物
+bee	动物
+elephant	动物
+leopard	动物
+cloud	天气
+rain	天气
+snow	天气
+snowflakes	天气
+snowing	天气
+lightning	天气
+cloudy	天气
+sunrise	天气
+haze	天气
+foggy	天气
+night	天气
+rainbow	天气
+in spring	天气
+in summer	天气
+in autumn	天气
+in winter	天气
+aurora	天气
+dusk	天气
+bathtub	室内
+bedroom	室内
+kitchen	室内
+stage	室内
+hallway	室内
+bathroom	室内
+locker room	室内
+library	室内
+office	室内
+tatami	室内
+train cabin	室内
+Fine Dining Restaurant	室内
+bookstore	室内
+curtain	室内
+classroon	室内
+supermarket	室内
+courtroom	室内
+bar	室内
+pharmacy	室内
+theater	室内
+clubroom	室内
+izakaya	室内
+bakery	室内
+laboratory	室内
+mountain	室外
+water	室外
+road	室外
+ocean	室外
+stream	室外
+lake	室外
+river	室外
+onsen	室外
+waterfall	室外
+pond	室外
+cliff	室外
+desert	室外
+forest	室外
+bamboo forest	室外
+hill	室外
+space	室外
+field	室外
+cave	室外
+beach	室外
+street	室外
+garden	室外
+graveyard	室外
+flower field	室外
+ruins	室外
+scenery	室外
+tree stump	室外
+tree shade	室外
+underwater	室外
+starry sky	室外
+landscape	室外
+night sky	室外
+sky	室外
+nature	室外
+magic circle	室外
+cityscape	室外
+beautiful detailed sky	室外
+glacier	室外
+hills	室外
+in a meadow	室外
+grove	室外
+cliff	室外
+plateau	室外
+canyon	室外
+oasis	室外
+volcano	室外
+rice paddy	室外
+wheat field	室外
+savanna	室外
+tower	建筑
+bridge	建筑
+torii	建筑
+shop	建筑
+classroom	建筑
+stairs	建筑
+castle	建筑
+shrine	建筑
+restaurant	建筑
+park	建筑
+fountain	建筑
+church	建筑
+railroad tracks	建筑
+bar	建筑
+rooftop	建筑
+train station	建筑
+building	建筑
+stadium	建筑
+cafe	建筑
+skyscraper	建筑
+ferris wheel	建筑
+east asian architecture	建筑
+Chinese-style architecture	建筑
+fireworks	氛围
+neon lights	氛围
+valentine	氛围
+halloween	氛围
+christmas	氛围
+Chinese New Year	氛围
+new year	氛围
+explosion	氛围
+water vapor	氛围
+fireworks	氛围
+lantern festival	氛围
+tanabata	氛围
+mid-autumn festival	氛围
+summer festival	氛围
+moon	天体
+sun	天体
+red moon	天体
+universe	天体
+full moon	天体
+sunset	天体
+Jupiter	天体
+nebula	天体
+comet	天体
+stars	天体
+meteor shower	天体
+极高分辨率	质量
+超高分辨率	质量
+高分辨率	质量
+高质量	质量
+杰作	质量
+壁纸	质量
+8k	质量
+胶片颗粒	质量
+更多细节	质量
+顶光	渲染
+噪点	渲染
+逆光	渲染
+闪光	渲染
+景深	渲染
+光晕	渲染
+体积光	渲染
+焦散(水光)	渲染
+动态模糊	渲染
+镜头光晕	渲染
+电影光效	渲染
+光线追踪	渲染
+画面模糊	渲染
+3D渲染	渲染
+C4D渲染	渲染
+Unity 渲染	渲染
+高饱和度	渲染
+低饱和度	渲染
+插画	类型
+原画	类型
+漫画	类型
+照片	类型
+草图	类型
+剪影	类型
+油画	类型
+手绘	类型
+Q 版	类型
+怪物	类型
+手办	类型
+立绘	类型
+水彩画	类型
+马克笔	类型
+铅笔画	类型
+像素风	类型
+扁平风	类型
+动物化	类型
+洛丽塔	类型
+游戏 CG	类型
+哥特风格	类型
+赛博朋克	类型
+传统艺术	类型
+彩色铅笔画	类型
+单色	类型
+8bit	类型
+立体	类型
+线条	类型
+水墨画	类型
+科幻风	类型
+木炭画	类型
+蜡笔画	类型
+签绘风格	类型
+石墨笔画	类型
+圆珠笔画	类型
+马赛克画	类型
+拼贴艺术	类型
+赛马娘	IP
+兽娘动物园	IP
+公主连结	IP
+七龙珠	IP
+火影忍者	IP
+海贼王	IP
+精灵宝可梦	IP
+马里奥	IP
+漫威	IP
+游戏王	IP
+原神	IP
+玩具总动员	IP
+辛普森一家	IP
+勇者斗恶龙	IP
+初音未来	IP
+美少女战士	IP
+新世纪福音战士	IP
+北斗神拳	IP
+迪士尼电影	IP
+皮克斯动画	IP
+学院派	流派
+现实主义	流派
+新艺术派	流派
+艺术摄影	流派
+装配艺术	流派
+线条艺术	流派
+几何艺术	流派
+超现实主义	流派
+几何抽象艺术	流派
+工艺美术运动	流派
+复古艺术风格	流派
+表现派	流派
+野兽派	流派
+浪漫主义	流派
+古典主义	流派
+未来主义	流派
+抽象艺术	流派
+达达主义	流派
+ASCII艺术	流派
+巴洛克风格	流派
+洛可可风格	流派
+伦勃朗	艺术家
+新海诚	艺术家
+宫本茂	艺术家
+宫崎骏	艺术家
+荒木伸吾	艺术家
+驾笼真太郎	艺术家
+阿尔丰斯·慕夏	艺术家
+毕加索	艺术家
+村上隆	艺术家
+鸟山明	艺术家
+草间弥生	艺术家
+奈良美智	艺术家
+井上雄彦	艺术家
+车田正美	艺术家
+铃木春信	艺术家
+手冢治虫	艺术家
+高桥留美子	艺术家
+米开朗基罗	艺术家
+克劳德 莫奈	艺术家
+拉斐尔 桑西	艺术家
+列昂纳多 达芬奇	艺术家
+文森特 威廉 梵高	艺术家
+透视	镜头
+背影	镜头
+侧脸	镜头
+全身像	镜头
+半身像	镜头
+背对着	镜头
+倒挂的	镜头
+特写镜头	镜头
+鱼眼镜头	镜头
+广角镜头	镜头
+俯视镜头	镜头
+仰视镜头	镜头
+主观视角	镜头
+手部视角	镜头
+胯部视角	镜头
+脚部视角	镜头
+动态角度	镜头
+电影角度	镜头
+前景模糊	镜头
+面对玻璃	镜头
+正面面对	镜头
+透视缩距	镜头
+看向观众	镜头
+单人焦点	镜头
+角色的侧面	镜头
+全景	镜头
+柔焦	镜头
+深焦	镜头
+浅焦	镜头
+超广镜头	镜头
+俯瞰视角	镜头
+无人机视角	镜头
+运动相机视角	镜头
+上色	色彩
+色差	色彩
+纯色背景	色彩
+白色背景	色彩
+绿色主题	色彩
+粉色主题	色彩
+红色主题	色彩
+黄色主题	色彩
+黑白照片化	色彩
+渐变的背景	色彩
+单人	数量
+双胞胎	数量
+没有人类	数量
+1个男孩	数量
+2个男孩	数量
+3个男孩	数量
+多个男孩	数量
+1个女孩	数量
+2个女孩	数量
+3个女孩	数量
+多个女孩	数量
+三胞胎	数量
+男人	身份
+女人	身份
+儿童	身份
+萝莉	身份
+姐妹	身份
+女神	身份
+管家	身份
+女仆	身份
+舞者	身份
+医生	身份
+护士	身份
+警察	身份
+女警	身份
+公主	身份
+夫妻	身份
+母女	身份
+母子	身份
+怪物	身份
+天使	身份
+精灵	身份
+修女	身份
+忍者	身份
+巫女	身份
+猫娘	身份
+马娘	身份
+牛娘	身份
+魔女	身份
+犬娘	身份
+龙女	身份
+狐娘	身份
+幽灵	身份
+狼女	身份
+兽人	身份
+肌肉男	身份
+啦啦队	身份
+哥布林	身份
+青少年	身份
+兔女郎	身份
+美人鱼	身份
+蜘蛛娘	身份
+兄弟姐妹	身份
+魔法少女	身份
+女服务员	身份
+兄弟	身份
+学生	身份
+人偶	身份
+老师	身份
+厨师	身份
+飞行员	身份
+拳击手	身份
+消防员	身份
+桐人	动漫
+夏娜	动漫
+鬼泣	动漫
+佐助	动漫
+路飞	动漫
+春丽	动漫
+柯南	动漫
+索尼克	动漫
+泉纱雾	动漫
+蜘蛛侠	动漫
+五条悟	动漫
+蝙蝠侠	动漫
+皮卡丘	动漫
+哥斯拉	动漫
+炭治郎	动漫
+巫妖王	动漫
+金木研	动漫
+明日香	动漫
+孙悟空	动漫
+泰迪熊	动漫
+洛克人 x	动漫
+哆啦A梦	动漫
+卡卡罗特	动漫
+哈利波特	动漫
+黑崎一护	动漫
+樱木花道	动漫
+朽木露琪亚	动漫
+圣斗士星矢	动漫
+野原新之助	动漫
+夏尔·凡多姆海恩	动漫
+爱德华·艾尔利克	动漫
+多色的眼睛	五官
+空洞的眼睛	五官
+浅绿色的眼睛	五官
+猫眼	五官
+星形眼睛	五官
+一只眼睛闭着	五官
+发光的双眼	五官
+半闭的眼睛(单眼)	五官
+吊眼角	五官
+闭上的眼睛	五官
+睁开的眼睛	五官
+眼泪	五官
+眼妆	五官
+黑色巩膜	五官
+鄙视的眼神	五官
+动物耳朵	五官
+假动物耳朵	五官
+狐狸耳朵	五官
+穿耳洞	五官
+狗耳朵	五官
+猫耳朵	五官
+兔子耳朵	五官
+尖耳朵	五官
+机械耳朵	五官
+额外的耳朵	五官
+鼻子	五官
+动物鼻子	五官
+鼻子上的疤痕	五官
+鼻子上的绷带	五官
+眼睛上的疤痕	五官
+脸颊上的疤痕	五官
+脸上的疤痕	五官
+眉毛	五官
+浓眉	五官
+眼影	五官
+嘴唇	五官
+异色瞳	五官
+渐变瞳色	五官
+瞳孔收缩	五官
+花形瞳孔	五官
+爱心形瞳孔	五官
+明亮的瞳孔	五官
+牙	五官
+上牙	五官
+下牙	五官
+獠牙	五官
+虎牙	五官
+锋利的牙齿	五官
+胡须	五官
+舌头	五官
+眼圈	五官
+完美的脸	五官
+精致的五官	五官
+浅笑	表情
+皱眉	表情
+尴尬	表情
+酒醉	表情
+恼火	表情
+轻蔑	表情
+流泪	表情
+思考	表情
+大笑	表情
+坏笑	表情
+生气	表情
+害羞	表情
+脸红	表情
+困乏	表情
+怒视	表情
+嫉妒	表情
+忧郁	表情
+傻笑	表情
+傲娇	表情
+快乐	表情
+病娇	表情
+阴暗脸	表情
+无表情	表情
+流口水	表情
+脸部扭曲	表情
+脸色苍白	表情
+咬紧牙关	表情
+露齿而笑	表情
+嘴唇微张	表情
+咧着嘴笑	表情
+右下吐舌头	表情
+单眼咧嘴笑	表情
+不安地微笑	表情
+诱人的微笑	表情
+眼里冒爱心	表情
+强烈的情感	表情
+眉毛皱成V形	表情
+哭	表情
+舔	表情
+脸红	表情
+微笑	表情
+叹息	表情
+短眉	表情
+认真	表情
+尖叫	表情
+害怕	表情
+悲伤	表情
+挑眉	表情
+噘嘴	表情
+张嘴	表情
+紧张	表情
+不耐烦	表情
+猫嘴	表情
+调皮脸	表情
+困惑	表情
+得意	表情
+鄙夷	表情
+困	表情
+挑逗笑容	表情
+露齿笑	表情
+邪恶笑容	表情
+嘟嘴	表情
+胸	胸部
+小胸	胸部
+大胸	胸部
+中等胸	胸部
+心	胸部
+超大胸	胸部
+鸟翼	四肢
+龙翼	四肢
+冰翼	四肢
+天使的翅膀	四肢
+妖精的翅膀	四肢
+迷你翅膀	四肢
+恶魔之翼	四肢
+不对称的翅膀	四肢
+裸腿	四肢
+脚趾	四肢
+短腿	四肢
+粗腿	四肢
+大腿	四肢
+指甲	四肢
+恶魔角	特征
+嘴下痣	特征
+黑皮肤	特征
+白皮肤	特征
+彩色皮肤	特征
+皮肤很黑	特征
+深色皮肤	特征
+两色皮肤	特征
+五彩的皮肤	特征
+苍白的皮肤	特征
+纹身	特征
+手臂纹身	特征
+肩部纹身	特征
+面部纹身	特征
+胸部纹身	特征
+腿部纹身	特征
+腹部纹身	特征
+宽臀	特征
+骨感	特征
+肥胖	特征
+锁骨	特征
+长指甲	特征
+五彩指甲	特征
+锋利的指甲	特征
+魔鬼身材	特征
+手臂上的伤疤	特征
+口红	特征
+栗子嘴	特征
+恶魔眼	特征
+纽扣眼	特征
+机械腿	特征
+机械义肢	特征
+玩偶关节	特征
+刘海	头部
+发圈	头部
+发髻	头部
+辫子	头部
+卷发	头部
+散发	头部
+短发	头部
+长发	头部
+波浪卷	头部
+湿头发	头部
+包子头	头部
+小卷发	头部
+秃头的	头部
+大呆毛	头部
+双马尾	头部
+侧马尾	头部
+短马尾	头部
+高马尾	头部
+马尾辫	头部
+侧辫子	头部
+双股辫	头部
+麻花辫	头部
+双发髻	头部
+辫子发髻	头部
+齐刘海	头部
+交错刘海	头部
+分开的刘海	头部
+不对称刘海	头部
+多彩头发	头部
+渐变发色	头部
+蓬松发型	头部
+尖刺的头发	头部
+飘逸的头发	头部
+凌乱的头发	头部
+极其长的头发	头部
+披下来的头发	头部
+盘起来的头发	头部
+非常短的头发	头部
+头发披在胸上	头部
+头发遮住眼睛	头部
+非常长的头发	头部
+头发向后梳	头部
+头发在眉间	头部
+鬼角	头部
+牛角	头部
+多角	头部
+兽角	头部
+龙角	头部
+鹿角	头部
+羊角	头部
+山羊角	头部
+遮住眼睛	头部
+中发	头部
+拥抱	基础
+站立	基础
+仰视	基础
+正坐	基础
+坐着	基础
+蹲下	基础
+躺着	基础
+下跪	基础
+牵手	基础
+偷窥	基础
+擦汗	基础
+睡觉	基础
+抬手	基础
+敬礼	基础
+招手	基础
+拿着	基础
+张腿	基础
+盘腿	基础
+看手机	基础
+走	基础
+跑	基础
+跳	基础
+飞	基础
+弯腰	基础
+嗅闻	基础
+抓住	基础
+自拍	基础
+撮头发	基础
+拉头发	基础
+竖中指	基础
+公主抱	复杂
+侧面瞥	复杂
+往上瞥	复杂
+背对背	复杂
+脸贴脸	复杂
+向后看	复杂
+侧身坐	复杂
+伸懒腰	复杂
+嘘手势	复杂
+盯着看	复杂
+抬一只脚	复杂
+抬两只脚	复杂
+单手插腰	复杂
+双手叉腰	复杂
+曲腿至胸	复杂
+交叉双腿	复杂
+举手露腋	复杂
+用手支撑住	复杂
+面对观众	复杂
+移开视线	复杂
+看向侧面	复杂
+战斗姿态	复杂
+身体前驱	复杂
+四肢趴地	复杂
+翘臀姿势	复杂
+手枪手势	复杂
+比出中指	复杂
+翘大拇指	复杂
+眼神交流	复杂
+抓住头发	复杂
+整理头发	复杂
+手放在身后	复杂
+手放在嘴边	复杂
+盯着另一人	复杂
+跨坐	复杂
+祈祷	复杂
+冥想	复杂
+托腮	复杂
+提裙	复杂
+骑马	复杂
+打着伞	复杂
+捧着花	复杂
+一字马	复杂
+抱着心	复杂
+抱着物品	复杂
+拿着书	复杂
+拿着刀	复杂
+拿着枪	复杂
+拿着杯子	复杂
+拿着食物	复杂
+拿着法杖	复杂
+拿着麦克风	复杂
+挥动手臂	复杂
+伸出手臂	复杂
+搂着手臂	复杂
+双手交叉	复杂
+双手张开伸直	复杂
+亲吻脸颊	复杂
+亲吻额头	复杂
+踮起脚尖吻	复杂
+头顶水果	复杂
+抓别人头发	复杂
+调整过膝袜	复杂
+从背后拥抱	复杂
+珠宝	饰品
+口罩	饰品
+眼罩	饰品
+独眼罩	饰品
+手套	饰品
+长手套	饰品
+无指手套	饰品
+猫猫手套	饰品
+婚礼手套	饰品
+臂环	饰品
+臂章	饰品
+项链	饰品
+十字架项链	饰品
+十字架项链	饰品
+金属项圈	饰品
+缎带颈链	饰品
+发花	饰品
+发环	饰品
+发箍	饰品
+发夹	饰品
+发簪	饰品
+头饰	饰品
+女仆头饰	饰品
+羽毛头饰	饰品
+蝴蝶结	饰品
+蝴蝶结发饰	饰品
+发带	饰品
+蝴蝶结发带	饰品
+洛丽塔发带	饰品
+兜帽	饰品
+护士帽	饰品
+贝雷帽	饰品
+巫师帽	饰品
+女巫帽	饰品
+水手帽	饰品
+圣诞帽	饰品
+迷你礼帽	饰品
+丝带	饰品
+颈带	饰品
+腰带	饰品
+领带	饰品
+领结	饰品
+水手领结	饰品
+耳环	饰品
+婚礼面纱	饰品
+面具	饰品
+胸甲	饰品
+无框眼镜	饰品
+护目镜在额头上	饰品
+披肩	饰品
+斗篷	饰品
+头巾	饰品
+围巾	饰品
+流苏	饰品
+铃铛	饰品
+腿环	饰品
+兔尾	饰品
+耳罩	饰品
+臂带	饰品
+臂镯	饰品
+手镯	饰品
+手链	饰品
+珍珠手链	饰品
+腕带	饰品
+细肩带	饰品
+耳坠	饰品
+耳钉	饰品
+圆形耳环	饰品
+面纱	饰品
+新娘面纱	饰品
+般若面具	饰品
+皇冠	饰品
+迷你皇冠	饰品
+肩甲	饰品
+护手	饰品
+风镜	饰品
+太阳镜	饰品
+飞行员太阳镜	饰品
+戒指	饰品
+木偶戒指	饰品
+雨披	饰品
+沙滩巾	饰品
+吊坠	饰品
+胸针	饰品
+胸花	饰品
+裙撑	饰品
+铁棘	饰品
+丝带饰边	饰品
+大腿系带	饰品
+蓝宝石胸针	饰品
+旭日形首饰	饰品
+腿部花边环	饰品
+泳装	套装
+比基尼	套装
+连体泳衣	套装
+吊带泳衣	套装
+长裙	套装
+围裙	套装
+吊带裙	套装
+格子裙	套装
+连身裙	套装
+带褶连衣裙	套装
+露肩连衣裙	套装
+露背连身裙	套装
+高腰半身裙	套装
+分层连衣裙	套装
+校服	套装
+西装	套装
+制服	套装
+运动服	套装
+和服	套装
+体操服	套装
+水手服	套装
+晚礼服	套装
+休闲服	套装
+女式西服	套装
+日式服装	套装
+无肩带礼服	套装
+健身房制服	套装
+晚会礼服	套装
+圣诞老人服装	套装
+女士连衫裤	套装
+女用贴身内衣裤	套装
+唐装	套装
+浴衣	套装
+睡衣	套装
+婚纱	套装
+长袍	套装
+军装	套装
+盔甲	套装
+警服	套装
+旗袍	套装
+睡袍	套装
+紧身衣	套装
+高叉紧身衣	套装
+女仆装	套装
+外套	上装
+长外套	上装
+西装外套	上装
+连帽外套	上装
+背心	上装
+毛衣背心	上装
+吊带背心	上装
+衬衫	上装
+高领衫	上装
+连帽衫	上装
+短衬衫	上装
+开襟衫	上装
+紧身衬衫	上装
+高领衬衫	上装
+女式衬衫	上装
+无袖衬衫	上装
+露肩衬衫	上装
+条纹衬衫	上装
+西服衬衫	上装
+敞开的衬衫	上装
+毛衣	上装
+高领毛衣	上装
+开胸毛衣	上装
+露肩毛衣	上装
+毛衣连身裙	上装
+马甲	上装
+风衣	上装
+开大衣	上装
+毛皮大衣	上装
+冬季大衣	上装
+披肩大衣	上装
+胸罩	上装
+抹胸	上装
+运动文胸	上装
+运动夹克	上装
+连帽夹克	上装
+校队夹克	上装
+军装夹克	上装
+紧身衣服	上装
+无肩带紧身衣	上装
+露背上衣	上装
+露腰上衣	上装
+直筒上衣	上装
+露腹短上衣	上装
+T 恤	上装
+长袖	上装
+宽袖	上装
+无袖	上装
+背带	上装
+胫甲	上装
+背带	上装
+胸衣	上装
+白大褂	上装
+长短袖	上装
+交叉吊带	上装
+过手袖	上装
+燕尾服	上装
+夏日长裙	上装
+毛领	上装
+兜帽斗篷	上装
+战壕大衣	上装
+实验室外套	上装
+羽绒服	上装
+防弹盔甲	上装
+防弹衣	上装
+大衣	上装
+粗呢大衣	上装
+裤子	下装
+短裤	下装
+超短裤	下装
+蕾丝短裤	下装
+牛仔短裤	下装
+热裤	下装
+裙子	下装
+袴裙	下装
+腰裙	下装
+百褶裙	下装
+迷你裙	下装
+超短裙	下装
+内裤	下装
+工装裤	下装
+瑜伽裤	下装
+紧身裤	下装
+牛仔裤	下装
+高腰裤	下装
+灯笼裤	下装
+七分裤	下装
+铅笔裙	下装
+皮裙	下装
+和服下的裙子	下装
+裸足	鞋/袜
+凉鞋	鞋/袜
+拖鞋	鞋/袜
+木屐	鞋/袜
+靴子	鞋/袜
+短靴	鞋/袜
+运动鞋	鞋/袜
+高跟鞋	鞋/袜
+长统靴	鞋/袜
+高跟靴	鞋/袜
+过膝长靴	鞋/袜
+袜子	鞋/袜
+袜套	鞋/袜
+丝袜	鞋/袜
+裤袜	鞋/袜
+袜带	鞋/袜
+网袜	鞋/袜
+短袜	鞋/袜
+渔网袜	鞋/袜
+白裤袜	鞋/袜
+过膝袜	鞋/袜
+泡泡袜	鞋/袜
+膝下袜	鞋/袜
+网裤袜	鞋/袜
+马镫袜	鞋/袜
+无趾袜	鞋/袜
+美式短袜	鞋/袜
+连腰吊带袜	鞋/袜
+裤袜	鞋/袜
+圣诞袜	鞋/袜
+暖腿袜	鞋/袜
+连裤袜	鞋/袜
+堆堆袜	鞋/袜
+吊带袜	鞋/袜
+蕾丝裤袜	鞋/袜
+螺纹裤袜	鞋/袜
+荷叶边袜子	鞋/袜
+丝带边袜子	鞋/袜
+铆钉吊袜带	鞋/袜
+褶边长筒袜	鞋/袜
+撕裂的连裤袜	鞋/袜
+荷叶边连裤袜	鞋/袜
+椅子	家具
+茶杯	家具
+钢琴	家具
+床	家具
+桌子	家具
+沙发	家具
+餐桌	家具
+衣橱	家具
+柜子	家具
+书桌	家具
+衣柜	家具
+鞋架	家具
+空调	家具
+灯具	家具
+抱枕	家具
+镜子	家具
+架子	家具
+电视	家具
+地毯	家具
+挂钟	家具
+咖啡桌	家具
+电视柜	家具
+床头柜	家具
+飞机	载具
+飞行器	载具
+摩托车	载具
+船	载具
+车	载具
+卡车	载具
+坦克	载具
+火车	载具
+地铁	载具
+轮船	载具
+游艇	载具
+潜艇	载具
+货车	载具
+巴士	载具
+自行车	载具
+公交车	载具
+出租车	载具
+拖拉机	载具
+直升机	载具
+航空母舰	载具
+电动滑板车	载具
+枪	道具
+伞	道具
+刀	道具
+鞭	道具
+包	道具
+书包	道具
+背包	道具
+腰包	道具
+手提包	道具
+单肩包	道具
+公文包	道具
+手杖	道具
+耳机	道具
+手枪	道具
+魔杖	道具
+札符	道具
+阴阳	道具
+香烟	道具
+吉他	道具
+手铐	道具
+纽扣	道具
+马鞭	道具
+镰刀	道具
+相机	道具
+筷子	道具
+麦克风	道具
+化妆品	道具
+创可贴	道具
+圣诞树	道具
+杰克南瓜灯	道具
+毛绒玩具猫	道具
+钥匙	道具
+宝石	道具
+金币	道具
+武器	道具
+盾牌	道具
+地图	道具
+法杖	道具
+弓箭	道具
+炸弹	道具
+魔法书	道具
+护身符	道具
+钓鱼竿	道具
+望远镜	道具
+传送门	道具
+魔法药水	道具
+茶	食物
+汤	食物
+蛋	食物
+蛋糕	食物
+披萨	食物
+面包	食物
+吐司	食物
+面条	食物
+拉面	食物
+杯面	食物
+米饭	食物
+馅饼	食物
+寿司	食物
+香肠	食物
+便当	食物
+咖喱	食物
+咖啡	食物
+啤酒	食物
+土豆片	食物
+口香糖	食物
+巧克力	食物
+甜甜圈	食物
+冰激凌	食物
+咖喱饭	食物
+炸薯条	食物
+汉堡包	食物
+煎鸡蛋	食物
+三明治	食物
+日本酒	食物
+葡萄酒	食物
+热带饮料	食物
+生日蛋糕	食物
+巧克力棒	食物
+意大利面	食物
+可口可乐	食物
+粥	食物
+炸鸡	食物
+包子	食物
+烤肉	食物
+炒饭	食物
+饺子	食物
+烧烤	食物
+豆腐	食物
+热狗	食物
+烤鱼	食物
+煲仔饭	食物
+煎饼果子	食物
+糖醋里脊	食物
+阿婆豆腐	食物
+花	植物
+花束	植物
+花瓣	植物
+花环	植物
+紫藤	植物
+莲花	植物
+睡莲	植物
+玫瑰	植物
+樱花	植物
+向日葵	植物
+郁金香	植物
+蓝莓	植物
+草莓	植物
+葡萄	植物
+番茄	植物
+西瓜	植物
+橘子	植物
+香蕉	植物
+苹果	植物
+黄瓜	植物
+蘑菇	植物
+大葱	植物
+南瓜	植物
+柠檬片	植物
+胡萝卜	植物
+菊花	植物
+梅花	植物
+竹子	植物
+松树	植物
+荷花	植物
+橡树	植物
+牡丹花	植物
+康乃馨	植物
+杜鹃花	植物
+薰衣草	植物
+茉莉花	植物
+椰子树	植物
+紫薇花	植物
+紫罗兰	植物
+香蕉树	植物
+石榴树	植物
+百合花	植物
+花椰菜	植物
+玉米	植物
+樱桃	植物
+马	动物
+熊	动物
+鸡	动物
+猪	动物
+龟	动物
+鹿	动物
+猫	动物
+狗	动物
+企鹅	动物
+狐狸	动物
+螃蟹	动物
+老虎	动物
+乌鸦	动物
+鸭子	动物
+海鸥	动物
+熊猫	动物
+金鱼	动物
+鲨鱼	动物
+仓鼠	动物
+水母	动物
+狸猫	动物
+狮子	动物
+老鼠	动物
+猴子	动物
+鸽子	动物
+海豚	动物
+蜘蛛	动物
+恐龙	动物
+瓢虫	动物
+蜗牛	动物
+蝴蝶	动物
+兔子	动物
+萤火虫	动物
+猫头鹰	动物
+牛	动物
+龙	动物
+蛇	动物
+羊	动物
+狼	动物
+猩猩	动物
+鳄鱼	动物
+蜜蜂	动物
+大象	动物
+豹子	动物
+云	天气
+雨	天气
+雪	天气
+雪花	天气
+下雪	天气
+闪电	天气
+多云	天气
+日出	天气
+雾霾	天气
+大雾	天气
+夜晚	天气
+彩虹	天气
+春天	天气
+夏天	天气
+秋天	天气
+冬天	天气
+极光	天气
+黄昏	天气
+浴缸	室内
+卧室	室内
+厨房	室内
+舞台	室内
+走廊	室内
+浴室	室内
+更衣室	室内
+图书馆	室内
+办公室	室内
+塌塌米	室内
+火车车厢	室内
+餐厅	室内
+书店	室内
+窗帘	室内
+教室	室内
+超市	室内
+法庭	室内
+酒吧	室内
+药店	室内
+剧院	室内
+俱乐部	室内
+居酒屋	室内
+面包店	室内
+实验室	室内
+山	室外
+水	室外
+路	室外
+海洋	室外
+流水	室外
+湖泊	室外
+河流	室外
+温泉	室外
+瀑布	室外
+池塘	室外
+悬崖	室外
+沙漠	室外
+森林	室外
+竹林	室外
+山丘	室外
+太空	室外
+田园	室外
+洞穴	室外
+沙滩	室外
+街道	室外
+花园	室外
+墓地	室外
+花海	室外
+废墟	室外
+风景	室外
+树桩	室外
+树荫	室外
+水下	室外
+星空	室外
+景观	室外
+夜空	室外
+天空	室外
+大自然	室外
+魔法阵	室外
+城市景观	室外
+漂亮的天空	室外
+冰川	室外
+山丘	室外
+草地	室外
+树林	室外
+悬崖	室外
+高原	室外
+峡谷	室外
+绿洲	室外
+火山	室外
+稻田	室外
+麦田	室外
+大草原	室外
+塔	建筑
+桥	建筑
+鸟居	建筑
+商店	建筑
+教室	建筑
+楼梯	建筑
+城堡	建筑
+神社	建筑
+饭店	建筑
+公园	建筑
+喷泉	建筑
+教堂	建筑
+铁轨	建筑
+酒吧	建筑
+屋顶	建筑
+火车站	建筑
+建筑物	建筑
+体育场	建筑
+咖啡厅	建筑
+摩天楼	建筑
+摩天轮	建筑
+东亚建物	建筑
+中式建筑	建筑
+烟花	氛围
+霓虹灯	氛围
+情人节	氛围
+万圣节	氛围
+圣诞节	氛围
+春节	氛围
+新年	氛围
+爆炸	氛围
+蒸汽	氛围
+烟火	氛围
+元宵节	氛围
+七夕节	氛围
+中秋节	氛围
+夏日祭	氛围
+月亮	天体
+太阳	天体
+猩红之月	天体
+宇宙	天体
+满月	天体
+落日	天体
+木星	天体
+星云	天体
+彗星	天体
+星星	天体
+流星雨	天体
